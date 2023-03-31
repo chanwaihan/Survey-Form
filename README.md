@@ -1,5 +1,5 @@
 # Survey-Form
-Certification project - building a survey form to collect data from users in <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form">freeCodeCamp</a>.<br>
+Certification project - building a Survey Form to collect data from users in <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form">freeCodeCamp</a>.<br>
 I tried to replicate my survey form to be similar to the <a href="https://survey-form.freecodecamp.rocks/">freeCodeCamp's survey form example</a>.<br>
 Part of the Responsive Web Design Certification.
 
